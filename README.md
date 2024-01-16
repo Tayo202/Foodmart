@@ -1,5 +1,7 @@
 # Foodmart Business Intelligence
 
+![](FreshProduceKGFdaily.jpg)
+
 ## Introduction
 This foodmart store dataset, an adaptation of the microsoft Advwenture Works PowerBI training was sourced online. I decided to practice and hone my PowerBI skills using the fataset.
 
