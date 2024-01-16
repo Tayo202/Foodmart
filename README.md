@@ -63,5 +63,5 @@ The various tables where connected in PowerBI relationship window in a star sche
 Overall FOODMART stores has a promising and flourishing outlook, they can further optimize the business by making sure food and drink items are constantly available in their stores. They should also unlock growth in Canada by increasing the number of stores in the country, as this is the major reason for reduced revenue from the country compared to others.
 -
 
-You can view and interact with the dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiMDNjMjhjNDYtZjY2ZS00NWZlLWJjMGItODJhMjcxMjRmNjcyIiwidCI6ImY0NjVkYjk4LTU0MTEtNDBmOS05OTU2LTk2ZjMxMDVhNjdlZCJ9)
+You can view and interact with the dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiOTgzMjYxMzktNjllZC00Y2NkLTkxNDUtYWIwMjViMWNkYWEzIiwidCI6ImY0NjVkYjk4LTU0MTEtNDBmOS05OTU2LTk2ZjMxMDVhNjdlZCJ9)
 
